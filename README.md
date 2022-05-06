@@ -1,2 +1,2 @@
 # terraform-sysmanager-aws-v3
-Projeto para provisionar instâncias de EC2 de forma automatizada na AWS usando infraestrutura como código IaC com o Terraform e simulação de um Deploy de agente de segurança com SystemManager AWS.
+Projeto para provisionar instâncias de EC2 de forma automatizada na AWS usando infraestrutura como código IaC com o Terraform e imulação de um Deploy de agente de segurança com SystemManager AWS.
